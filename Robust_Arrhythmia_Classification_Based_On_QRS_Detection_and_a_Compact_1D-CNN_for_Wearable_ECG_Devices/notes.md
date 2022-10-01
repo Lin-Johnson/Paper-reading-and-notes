@@ -2,8 +2,8 @@
 
 MIT-BIH心率失常数据库和QT数据库
 
-- **MIT-BIH Arrhythmia (MITD-AR)：**47例患者（25M/22F），with the age of 23–89 years with a total of 24 hours. Each record is 30-min long and sampled at 360 Hz. 
-- **QT database (QTDB)：**consists of 105 ECG records and only 82 records are annotated. The total duration of the annotated records is 20.5 hours with 86,995 annotated beats. Each record has a duration of 15-min and is sampled at 250 Hz.
+-  **MIT-BIH Arrhythmia (MITD-AR)：** 47例患者（25M/22F），with the age of 23–89 years with a total of 24 hours. Each record is 30-min long and sampled at 360 Hz. 
+-  **QT database (QTDB)：** consists of 105 ECG records and only 82 records are annotated. The total duration of the annotated records is 20.5 hours with 86,995 annotated beats. Each record has a duration of 15-min and is sampled at 250 Hz.
 
 
 
