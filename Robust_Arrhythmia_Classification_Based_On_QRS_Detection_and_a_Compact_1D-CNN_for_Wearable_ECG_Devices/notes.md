@@ -7,6 +7,8 @@ MIT-BIH心率失常数据库和QT数据库
 
 
 
+
+
 [MIT-BIH ECG 心电数据的下载和读取图解](https://blog.csdn.net/chenyusiyuan/article/details/2027887)
 
 [MIT-BIH Arrhythmia Database v1.0.0](https://www.physionet.org/content/mitdb/1.0.0/)
@@ -153,7 +155,7 @@ $\alpha$和$\eta$的值根据经验通常被设定为0.5和0.12。
 
 图8a：用于节拍分类的1D-CCNN网络的框图。
 
-**1D-CCNN：**由3个具有不同核数的卷积单元($Kn1、Kn2$和$Kn3$)、1个具有$N_{cl}$隐藏单元的全连接层(FCL)、softmax和一个分类层组成。
+**1D-CCNN：**由3个具有不同核数的卷积单元($ Kn1 $、 $Kn2$ 和 $Kn3$ )、1个具有$N_{cl}$隐藏单元的全连接层(FCL)、softmax和一个分类层组成。
 
 - **卷积单元**用于提取局部特征图，由一个核大小为5×1的1D卷积层、整流线性激活(ReLu)和maxpool层
 
