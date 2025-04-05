@@ -444,3 +444,5 @@
 2025-04-05-21-13: save cond1_cont1_fr1.0_image to /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/images/train/cond1_cont1_fr1.0_image/e0000000003_itr0000010054_rank0_ematxt
 2025-04-05-21-13: Sample done, time: 68.72
 2025-04-05-21-14: saved in /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/checkpoint/last.pth
+2025-04-05-21-16: audioset_train: train: Epoch 4/1000 iter 80/10055 || | loss: 5.2017 || lr_lr: 0.00045 || data_time: 0.0s | fbward_time: 1.5s | iter_time: 1.5s | iter_avg_time: 1.6s | epoch_time: 02m:23s | spend_time: 17h:48m:43s | left_time: 184d:10h:13m:48s
+2025-04-05-21-19: audioset_train: train: Epoch 4/1000 iter 180/10055 || | loss: 4.8812 || lr_lr: 0.00045 || data_time: 0.0s | fbward_time: 1.0s | iter_time: 1.0s | iter_avg_time: 1.6s | epoch_time: 05m:00s | spend_time: 17h:51m:19s | left_time: 184d:09h:59m:30s
