@@ -773,3 +773,5 @@
 2025-04-06-10-33: Sample done, time: 68.48
 2025-04-06-10-33: saved in /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/checkpoint/last.pth
 2025-04-06-10-34: audioset_train: train: Epoch 7/1000 iter 15/10055 || | loss: 4.8717 || lr_lr: 0.000225 || data_time: 0.0s | fbward_time: 1.8s | iter_time: 1.8s | iter_avg_time: 1.6s | epoch_time: 38s | spend_time: 1d:07h:06m:44s | left_time: 183d:20h:30m:35s
+2025-04-06-10-37: audioset_train: train: Epoch 7/1000 iter 115/10055 || | loss: 4.8089 || lr_lr: 0.000225 || data_time: 0.0s | fbward_time: 1.0s | iter_time: 1.0s | iter_avg_time: 1.6s | epoch_time: 03m:14s | spend_time: 1d:07h:09m:20s | left_time: 183d:20h:20m:41s
+2025-04-06-10-39: audioset_train: train: Epoch 7/1000 iter 215/10055 || | loss: 4.8752 || lr_lr: 0.000225 || data_time: 0.0s | fbward_time: 1.0s | iter_time: 1.0s | iter_avg_time: 1.6s | epoch_time: 05m:50s | spend_time: 1d:07h:11m:57s | left_time: 183d:20h:11m:22s
