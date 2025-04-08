@@ -2199,3 +2199,5 @@
 2025-04-08-19-57: saved in /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/checkpoint/000019e_201099iter.pth
 2025-04-08-19-58: saved in /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/checkpoint/last.pth
 2025-04-08-19-58: audioset_train: train: Epoch 20/1000 iter 0/10055 || | loss: 4.4787 || lr_lr: 7.0312e-06 || data_time: 3.3s | fbward_time: 4.7s | iter_time: 8.0s | iter_avg_time: 1.6s | epoch_time: 08s | spend_time: 3d:16h:30m:30s | left_time: 180d:16h:53m:27s
+2025-04-08-20-01: audioset_train: train: Epoch 20/1000 iter 100/10055 || | loss: 4.5391 || lr_lr: 7.0312e-06 || data_time: 0.0s | fbward_time: 1.2s | iter_time: 1.2s | iter_avg_time: 1.6s | epoch_time: 02m:50s | spend_time: 3d:16h:33m:13s | left_time: 180d:16h:54m:24s
+2025-04-08-20-03: audioset_train: train: Epoch 20/1000 iter 200/10055 || | loss: 4.3157 || lr_lr: 7.0312e-06 || data_time: 0.0s | fbward_time: 1.0s | iter_time: 1.0s | iter_avg_time: 1.6s | epoch_time: 05m:26s | spend_time: 3d:16h:35m:49s | left_time: 180d:16h:49m:42s
