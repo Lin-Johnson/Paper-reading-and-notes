@@ -3616,3 +3616,12 @@
 2025-04-11-05-15: audioset_train: train: Epoch 32/1000 iter 9940/10055 || | loss: 4.4064 || lr_lr: 1e-06 || data_time: 0.0s | fbward_time: 1.0s | iter_time: 1.0s | iter_avg_time: 1.6s | epoch_time: 04h:20m:18s | spend_time: 6d:01h:47m:43s | left_time: 178d:01h:46m:05s
 2025-04-11-05-18: audioset_train: train: Epoch 32/1000 iter 10040/10055 || | loss: 4.4242 || lr_lr: 1e-06 || data_time: 0.0s | fbward_time: 1.0s | iter_time: 1.0s | iter_avg_time: 1.6s | epoch_time: 04h:22m:56s | spend_time: 6d:01h:50m:21s | left_time: 178d:01h:43m:26s
 2025-04-11-05-18: Begin to sample...
+2025-04-11-05-19: save condition to /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/images/train/condition/e0000000032_itr0000010054_rank0_ema.jpg
+2025-04-11-05-19: save input_image to /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/images/train/input_image/e0000000032_itr0000010054_rank0_ema.jpg
+2025-04-11-05-19: save reconstruction_image to /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/images/train/reconstruction_image/e0000000032_itr0000010054_rank0_ematxt
+2025-04-11-05-19: save cond1_cont1_fr0_image to /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/images/train/cond1_cont1_fr0_image/e0000000032_itr0000010054_rank0_ematxt
+2025-04-11-05-19: save cond1_cont1_fr0.5_image to /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/images/train/cond1_cont1_fr0.5_image/e0000000032_itr0000010054_rank0_ematxt
+2025-04-11-05-19: save cond1_cont1_fr1.0_image to /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/images/train/cond1_cont1_fr1.0_image/e0000000032_itr0000010054_rank0_ematxt
+2025-04-11-05-19: Sample done, time: 68.46
+2025-04-11-05-19: saved in /public/home/linzhaocheng/Noisy-to-clean/OUTPUT/audioset_train/2025-04-05T03-22-50/checkpoint/last.pth
+2025-04-11-05-22: audioset_train: train: Epoch 33/1000 iter 85/10055 || | loss: 4.3293 || lr_lr: 1e-06 || data_time: 0.0s | fbward_time: 1.6s | iter_time: 1.6s | iter_avg_time: 1.6s | epoch_time: 02m:29s | spend_time: 6d:01h:54m:27s | left_time: 178d:02h:23m:39s
